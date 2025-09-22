@@ -6,6 +6,14 @@ function WordleDemake() {
     window.location.href = "https://github.com/DanishCraftYT/WordleDemake";
 }
 
+function WikiWareWebsite() {
+    window.location.href = "https://danishcraftyt.github.io/WikiWare/";
+}
+
+function WikiWareRepo() {
+    window.location.href = "https://github.com/DanishCraftYT/WikiWare";
+}
+
 function GithubAccount() {
     window.location.href = "https://github.com/DanishCraftYT";
 }

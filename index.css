@@ -81,14 +81,6 @@ body {
     padding: 0px 20px 20px 20px;
 }
 
-.main #projects #mpage:active {
-    color:blue;
-}
-
-.main #projects #mpwd:active {
-    color:blue;
-}
-
 .right {
     text-align: right;
     background-color: darkred;
@@ -98,7 +90,7 @@ body {
 .docfooter {
     text-align: center;
     background-color: darkred;
-    margin-top: 20px;
+    margin: 20px 0px 20px 0px;
 }
 
 .docfooter button  {
